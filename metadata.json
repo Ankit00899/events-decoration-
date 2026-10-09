@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxe Event Decoration & Admin Suite",
+  "description": "Bespoke event decoration service offering romantic room setups, birthdays, proposals, baby showers, and complete booking management with owner admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
