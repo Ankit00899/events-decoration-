@@ -89,7 +89,6 @@ const MainContent: React.FC = () => {
 
   return (
     <div className="min-h-screen flex flex-col bg-[#FAF8F5] text-[#1E1B18]">
-      <DemoRoleBanner />
       <Navbar />
       <main className="flex-1">
         {renderCurrentView()}
